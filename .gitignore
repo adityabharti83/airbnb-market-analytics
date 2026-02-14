@@ -1,0 +1,21 @@
+# Large data files
+data_raw/*.csv
+data_clean/*.csv
+
+# PowerBI files (too large for GitHub)
+*.pbix
+
+# Screenshots
+Screenshots/*.png
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
