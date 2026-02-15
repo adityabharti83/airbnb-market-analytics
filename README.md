@@ -1,5 +1,8 @@
 # Airbnb Market Analytics Project
 
+
+Due to file size limits, large datasets and PBIX files are not included in this repository.
+
 This project analyzes Airbnb listing and review data to generate business insights on pricing, demand trends, and property performance.
 
 The pipeline processes raw datasets, structures them into relational tables, loads them into SQL Server, and visualizes insights using Power BI dashboards.
