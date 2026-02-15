@@ -90,7 +90,14 @@ The dashboards provide:
 
 ## Screenshots
 
-(Add dashboard images here)
+### Dashboard Overview
+![Dashboard Overview](Screenshots/Screenshot%202026-02-15%20002855.png)
+
+### Analytics View
+![Analytics View](Screenshots/Screenshot%202026-02-15%20002928.png)
+
+### Detailed Insights
+![Detailed Insights](Screenshots/Screenshot%202026-02-15%20002948.png)
 
 ---
 
